@@ -1,6 +1,7 @@
 # Java Extensions
 
 *.class
+*.classpath
 
 # Package Files #
 *.jar
