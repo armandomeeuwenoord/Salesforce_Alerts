@@ -1,0 +1,38 @@
+{
+  "objectDescribe" : {
+    "name" : "User",
+    "label" : "User",
+    "keyPrefix" : "005",
+    "custom" : false,
+    "labelPlural" : "Users",
+    "layoutable" : false,
+    "activateable" : false,
+    "urls" : {
+      "sobject" : "/services/data/v28.0/sobjects/User",
+      "describe" : "/services/data/v28.0/sobjects/User/describe",
+      "rowTemplate" : "/services/data/v28.0/sobjects/User/{ID}",
+      "passwordUtilities" : "/services/data/v28.0/sobjects/User/{ID}/password"
+    },
+    "searchable" : true,
+    "deprecatedAndHidden" : false,
+    "createable" : true,
+    "updateable" : true,
+    "deletable" : false,
+    "customSetting" : false,
+    "feedEnabled" : true,
+    "mergeable" : false,
+    "queryable" : true,
+    "replicateable" : true,
+    "retrieveable" : true,
+    "undeletable" : false,
+    "triggerable" : true
+  },
+  "recentItems" : [ {
+    "attributes" : {
+      "type" : "User",
+      "url" : "/services/data/v28.0/sobjects/User/005E00000018QfBIAU"
+    },
+    "Id" : "005E00000018QfBIAU",
+    "Name" : "Spencer Owen"
+  } ]
+}

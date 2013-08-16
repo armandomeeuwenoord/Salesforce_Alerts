@@ -1,0 +1,242 @@
+{
+  "groups" : [ {
+    "fileCount" : 0,
+    "information" : {
+      "text" : null,
+      "title" : null
+    },
+    "name" : "All Adaptive Computing",
+    "owner" : {
+      "isActive" : true,
+      "name" : "Chris Hess",
+      "title" : "Manager, Sales Operations",
+      "userType" : "Internal",
+      "firstName" : "Chris",
+      "lastName" : "Hess",
+      "companyName" : "Adaptive Computing",
+      "photo" : {
+        "url" : "/services/data/v28.0/chatter/users/005E0000000X3UlIAK/photo",
+        "largePhotoUrl" : "https://adaptivecomputing--c.na9.content.force.com/profilephoto/729E0000000JruW/F",
+        "photoVersionId" : "729E0000000JruWIAS",
+        "smallPhotoUrl" : "https://adaptivecomputing--c.na9.content.force.com/profilephoto/729E0000000JruW/T",
+        "fullEmailPhotoUrl" : "https://adaptivecomputing.my.salesforce.com/ncsphoto/h-WNBipQ32EJsBPxfu0HcD1ooT8gMIn9N-NCNLVAFX1j5-4BrOzVfWpHAFnphVOH",
+        "standardEmailPhotoUrl" : "https://adaptivecomputing.my.salesforce.com/ncsphoto/h-WNBipQ32EJsBPxfu0HcD1ooT8gMIn9N-NCNLVAFX1WjTooa9avcJji6uEP5oby"
+      },
+      "mySubscription" : null,
+      "isInThisCommunity" : true,
+      "id" : "005E0000000X3UlIAK",
+      "motif" : {
+        "largeIconUrl" : "/img/icon/profile64.png",
+        "mediumIconUrl" : "/img/icon/profile32.png",
+        "smallIconUrl" : "/img/icon/profile16.png"
+      },
+      "url" : "/services/data/v28.0/chatter/users/005E0000000X3UlIAK",
+      "type" : "User"
+    },
+    "description" : "Get company announcements and other important updates",
+    "visibility" : "PublicAccess",
+    "memberCount" : 18,
+    "photo" : {
+      "url" : "/services/data/v28.0/chatter/groups/0F9E0000000GzHGKA0/photo",
+      "largePhotoUrl" : "https://adaptivecomputing--c.na9.content.force.com/profilephoto/729E0000000H7f1/F",
+      "photoVersionId" : "729E0000000H7f1IAC",
+      "smallPhotoUrl" : "https://adaptivecomputing--c.na9.content.force.com/profilephoto/729E0000000H7f1/T",
+      "fullEmailPhotoUrl" : "https://adaptivecomputing.my.salesforce.com/ncsphoto/O-l01oVBEYKD0o3shk0DD1yPsFZ7k_C9C9JIsAdmP4CM4zj-n-OWlhTFv5eiFqhn",
+      "standardEmailPhotoUrl" : "https://adaptivecomputing.my.salesforce.com/ncsphoto/O-l01oVBEYKD0o3shk0DD1yPsFZ7k_C9C9JIsAdmP4As2QPQsLxQxTrS8tVJR-v_"
+    },
+    "community" : null,
+    "canHaveChatterGuests" : false,
+    "emailToChatterAddress" : null,
+    "mySubscription" : {
+      "id" : "0FBE0000000a4OTOAY",
+      "url" : "/services/data/v28.0/chatter/group-memberships/0FBE0000000a4OTOAY"
+    },
+    "myRole" : "StandardMember",
+    "lastFeedItemPostDate" : "2011-12-01T15:32:26.000Z",
+    "id" : "0F9E0000000GzHGKA0",
+    "motif" : {
+      "largeIconUrl" : "/img/icon/groups64.png",
+      "mediumIconUrl" : "/img/icon/groups32.png",
+      "smallIconUrl" : "/img/icon/groups16.png"
+    },
+    "url" : "/services/data/v28.0/chatter/groups/0F9E0000000GzHGKA0",
+    "type" : "CollaborationGroup"
+  }, {
+    "fileCount" : null,
+    "information" : null,
+    "name" : "Increasing Pipeline",
+    "owner" : {
+      "isActive" : true,
+      "name" : "Chris Hess",
+      "title" : "Manager, Sales Operations",
+      "userType" : "Internal",
+      "firstName" : "Chris",
+      "lastName" : "Hess",
+      "companyName" : "Adaptive Computing",
+      "photo" : {
+        "url" : "/services/data/v28.0/chatter/users/005E0000000X3UlIAK/photo",
+        "largePhotoUrl" : "https://adaptivecomputing--c.na9.content.force.com/profilephoto/729E0000000JruW/F",
+        "photoVersionId" : "729E0000000JruWIAS",
+        "smallPhotoUrl" : "https://adaptivecomputing--c.na9.content.force.com/profilephoto/729E0000000JruW/T",
+        "fullEmailPhotoUrl" : "https://adaptivecomputing.my.salesforce.com/ncsphoto/h-WNBipQ32EJsBPxfu0HcD1ooT8gMIn9N-NCNLVAFX1j5-4BrOzVfWpHAFnphVOH",
+        "standardEmailPhotoUrl" : "https://adaptivecomputing.my.salesforce.com/ncsphoto/h-WNBipQ32EJsBPxfu0HcD1ooT8gMIn9N-NCNLVAFX1WjTooa9avcJji6uEP5oby"
+      },
+      "mySubscription" : null,
+      "isInThisCommunity" : true,
+      "id" : "005E0000000X3UlIAK",
+      "motif" : {
+        "largeIconUrl" : "/img/icon/profile64.png",
+        "mediumIconUrl" : "/img/icon/profile32.png",
+        "smallIconUrl" : "/img/icon/profile16.png"
+      },
+      "url" : "/services/data/v28.0/chatter/users/005E0000000X3UlIAK",
+      "type" : "User"
+    },
+    "description" : "Marty has given us the challenge to increase our pipeline to $40M. I thought it would be helpful to have an area where people can post ideas on what is working or get input on issues they can&#39;t get past.",
+    "visibility" : "PrivateAccess",
+    "memberCount" : 16,
+    "photo" : {
+      "url" : "/services/data/v28.0/chatter/groups/0F9E0000000JSalKAG/photo",
+      "largePhotoUrl" : "https://adaptivecomputing--c.na9.content.force.com/profilephoto/0F9/F",
+      "photoVersionId" : null,
+      "smallPhotoUrl" : "https://adaptivecomputing--c.na9.content.force.com/profilephoto/0F9/T",
+      "fullEmailPhotoUrl" : "https://adaptivecomputing.my.salesforce.com/img/userprofile/default_group_profile_200.png?fromEmail=1",
+      "standardEmailPhotoUrl" : "https://adaptivecomputing.my.salesforce.com/img/userprofile/default_group_profile_45.png?fromEmail=1"
+    },
+    "community" : null,
+    "canHaveChatterGuests" : false,
+    "emailToChatterAddress" : null,
+    "mySubscription" : null,
+    "myRole" : "NotAMember",
+    "lastFeedItemPostDate" : "2013-05-16T21:27:10.000Z",
+    "id" : "0F9E0000000JSalKAG",
+    "motif" : {
+      "largeIconUrl" : "/img/icon/groups64.png",
+      "mediumIconUrl" : "/img/icon/groups32.png",
+      "smallIconUrl" : "/img/icon/groups16.png"
+    },
+    "url" : "/services/data/v28.0/chatter/groups/0F9E0000000JSalKAG",
+    "type" : "CollaborationGroup"
+  }, {
+    "fileCount" : 0,
+    "information" : {
+      "text" : null,
+      "title" : null
+    },
+    "name" : "NICE EnginFrame and DCV",
+    "owner" : {
+      "isActive" : false,
+      "name" : "David Moore",
+      "title" : "Director of Asia Pacific and Japan",
+      "userType" : "Internal",
+      "firstName" : "David",
+      "lastName" : "Moore",
+      "companyName" : null,
+      "photo" : {
+        "url" : "/services/data/v28.0/chatter/users/005E0000000XrNqIAK/photo",
+        "largePhotoUrl" : "https://adaptivecomputing--c.na9.content.force.com/profilephoto/729E0000000HJbU/F",
+        "photoVersionId" : "729E0000000HJbUIAW",
+        "smallPhotoUrl" : "https://adaptivecomputing--c.na9.content.force.com/profilephoto/729E0000000HJbU/T",
+        "fullEmailPhotoUrl" : "https://adaptivecomputing.my.salesforce.com/ncsphoto/h-WNBipQ32EJsBPxfu0HcKVJxEg-aazqIoTBrDE2X6MTAntq0nUZijEYMV-A0Toy",
+        "standardEmailPhotoUrl" : "https://adaptivecomputing.my.salesforce.com/ncsphoto/h-WNBipQ32EJsBPxfu0HcKVJxEg-aazqIoTBrDE2X6PDgBlQy7-4cK6VPOVTjEWb"
+      },
+      "mySubscription" : null,
+      "isInThisCommunity" : true,
+      "id" : "005E0000000XrNqIAK",
+      "motif" : {
+        "largeIconUrl" : "/img/icon/profile64.png",
+        "mediumIconUrl" : "/img/icon/profile32.png",
+        "smallIconUrl" : "/img/icon/profile16.png"
+      },
+      "url" : "/services/data/v28.0/chatter/users/005E0000000XrNqIAK",
+      "type" : "User"
+    },
+    "description" : "This is a group that provides information on our NICE EnginFrame Portal and Desktop Cloud Visualization solution.  If you have a question about it, this is the place to ask!",
+    "visibility" : "PublicAccess",
+    "memberCount" : 7,
+    "photo" : {
+      "url" : "/services/data/v28.0/chatter/groups/0F9E0000000H3VhKAK/photo",
+      "largePhotoUrl" : "https://adaptivecomputing--c.na9.content.force.com/profilephoto/729E0000000HJd1/F",
+      "photoVersionId" : "729E0000000HJd1IAG",
+      "smallPhotoUrl" : "https://adaptivecomputing--c.na9.content.force.com/profilephoto/729E0000000HJd1/T",
+      "fullEmailPhotoUrl" : "https://adaptivecomputing.my.salesforce.com/ncsphoto/O-l01oVBEYKD0o3shk0DD0iJdcWfnE5nXwjekKKqUq5rIYf8qn-X7vrSO0_y2w50",
+      "standardEmailPhotoUrl" : "https://adaptivecomputing.my.salesforce.com/ncsphoto/O-l01oVBEYKD0o3shk0DD0iJdcWfnE5nXwjekKKqUq5-Z-mWR4ayRYrAbf-v57Nu"
+    },
+    "community" : null,
+    "canHaveChatterGuests" : false,
+    "emailToChatterAddress" : null,
+    "mySubscription" : null,
+    "myRole" : "NotAMember",
+    "lastFeedItemPostDate" : "2012-01-12T18:26:12.000Z",
+    "id" : "0F9E0000000H3VhKAK",
+    "motif" : {
+      "largeIconUrl" : "/img/icon/groups64.png",
+      "mediumIconUrl" : "/img/icon/groups32.png",
+      "smallIconUrl" : "/img/icon/groups16.png"
+    },
+    "url" : "/services/data/v28.0/chatter/groups/0F9E0000000H3VhKAK",
+    "type" : "CollaborationGroup"
+  }, {
+    "fileCount" : 0,
+    "information" : {
+      "text" : null,
+      "title" : null
+    },
+    "name" : "Test Public Group",
+    "owner" : {
+      "isActive" : true,
+      "name" : "Chris Hess",
+      "title" : "Manager, Sales Operations",
+      "userType" : "Internal",
+      "firstName" : "Chris",
+      "lastName" : "Hess",
+      "companyName" : "Adaptive Computing",
+      "photo" : {
+        "url" : "/services/data/v28.0/chatter/users/005E0000000X3UlIAK/photo",
+        "largePhotoUrl" : "https://adaptivecomputing--c.na9.content.force.com/profilephoto/729E0000000JruW/F",
+        "photoVersionId" : "729E0000000JruWIAS",
+        "smallPhotoUrl" : "https://adaptivecomputing--c.na9.content.force.com/profilephoto/729E0000000JruW/T",
+        "fullEmailPhotoUrl" : "https://adaptivecomputing.my.salesforce.com/ncsphoto/h-WNBipQ32EJsBPxfu0HcD1ooT8gMIn9N-NCNLVAFX1j5-4BrOzVfWpHAFnphVOH",
+        "standardEmailPhotoUrl" : "https://adaptivecomputing.my.salesforce.com/ncsphoto/h-WNBipQ32EJsBPxfu0HcD1ooT8gMIn9N-NCNLVAFX1WjTooa9avcJji6uEP5oby"
+      },
+      "mySubscription" : null,
+      "isInThisCommunity" : true,
+      "id" : "005E0000000X3UlIAK",
+      "motif" : {
+        "largeIconUrl" : "/img/icon/profile64.png",
+        "mediumIconUrl" : "/img/icon/profile32.png",
+        "smallIconUrl" : "/img/icon/profile16.png"
+      },
+      "url" : "/services/data/v28.0/chatter/users/005E0000000X3UlIAK",
+      "type" : "User"
+    },
+    "description" : "We are testing out some features of Chatter to see what it gives us as far as a &quot;Social Network&quot; is concerned. This group is to test the public group settings.",
+    "visibility" : "PublicAccess",
+    "memberCount" : 4,
+    "photo" : {
+      "url" : "/services/data/v28.0/chatter/groups/0F9E0000000JLXvKAO/photo",
+      "largePhotoUrl" : "https://adaptivecomputing--c.na9.content.force.com/profilephoto/0F9/F",
+      "photoVersionId" : null,
+      "smallPhotoUrl" : "https://adaptivecomputing--c.na9.content.force.com/profilephoto/0F9/T",
+      "fullEmailPhotoUrl" : "https://adaptivecomputing.my.salesforce.com/img/userprofile/default_group_profile_200.png?fromEmail=1",
+      "standardEmailPhotoUrl" : "https://adaptivecomputing.my.salesforce.com/img/userprofile/default_group_profile_45.png?fromEmail=1"
+    },
+    "community" : null,
+    "canHaveChatterGuests" : false,
+    "emailToChatterAddress" : null,
+    "mySubscription" : null,
+    "myRole" : "NotAMember",
+    "lastFeedItemPostDate" : "2013-03-21T16:45:54.000Z",
+    "id" : "0F9E0000000JLXvKAO",
+    "motif" : {
+      "largeIconUrl" : "/img/icon/groups64.png",
+      "mediumIconUrl" : "/img/icon/groups32.png",
+      "smallIconUrl" : "/img/icon/groups16.png"
+    },
+    "url" : "/services/data/v28.0/chatter/groups/0F9E0000000JLXvKAO",
+    "type" : "CollaborationGroup"
+  } ],
+  "currentPageUrl" : "/services/data/v28.0/chatter/groups",
+  "nextPageUrl" : null,
+  "previousPageUrl" : null
+}
